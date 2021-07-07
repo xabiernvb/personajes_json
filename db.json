@@ -1,36 +1,36 @@
 {
-    "caricaturas" : [
+    "animales" : [
         {     
-            "nombre" : "Gumball Watterson",
+            "nombre" : "Unicornio",
             "avatar" : "https://image.freepik.com/vector-gratis/lindo-unicornio-flotando-globo-dibujos-animados-vector-icono-ilustracion-concepto-icono-amor-animal-estilo-dibujos-animados-plana_138676-2591.jpg",
             "descripcion": "Hola soy un gato"
         }, {
-            "nombre" : "Darwin Watterson",
-            "avatar" : "https://pm1.narvii.com/6488/1c843a99d6f31e76590a0b48fed7bec6bec18c01_hq.jpg",
+            "nombre" : "Panda",
+            "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-lindo-dormir-panda-concepto-icono-naturaleza-animal-aislado-estilo-dibujos-animados-plana_138676-2566.jpg",
             "descripcion" : "Hola soy un pez con piernas"
         }, {
-            "nombre" : "Anais Watterson",
-            "avatar" : "https://pm1.narvii.com/6488/42a7251646b0aa2748a599dfcee912ecc82b3566_hq.jpg",
+            "nombre" : "Camaleon",
+            "avatar" : "https://image.freepik.com/vector-gratis/lindo-camaleon-arbol-caricatura-ilustracion_138676-3262.jpg",
             "descripcion": "Hola soy una coneja"
         }, {
-            "nombre" : "Nicole Watterson",
-            "avatar" : "https://vignette2.wikia.nocookie.net/elincreiblemundodegumball/images/7/7b/Season_3_Nicole.png/revision/latest?cb=20170214164713&path-prefix=es",
+            "nombre" : "Gato",
+            "avatar" : "https://image.freepik.com/vector-gratis/lindo-gato-sosteniendo-ilustracion-icono-dibujos-animados-pescado-concepto-icono-comida-animal-aislado-estilo-dibujos-animados-plana_138676-2171.jpg",
             "descripcion": "Hola soy una gata"
         }, {
-            "nombre" : "Richard Watterson",
-            "avatar" : "https://pm1.narvii.com/6488/0f66a8d1b7304d0b2d1742c789eeac831ddb1565_hq.jpg",
+            "nombre" : "Cerdo",
+            "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-dibujos-animados-lindo-rey-cerdo-gafas-concepto-animal-aislado-caricatura-plana_138676-2291.jpg",
             "descripcion": "Hola soy un conejo"
         }, {
-            "nombre" : "Penny Fitzgerald",
-            "avatar" : "http://vignette2.wikia.nocookie.net/elincreiblemundodegumball/images/4/41/Penny_season3_hd.png/revision/latest?cb=20141028171550&path-prefix=es",
+            "nombre" : "Perro",
+            "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-vector-dibujos-animados-lindo-corgi-beber-leche-te-boba-bebida-animal-concepto-aislado-vector-estilo-dibujos-animados-plana_138676-1943.jpg",
             "descripcion": "Hola soy un mani"
         }, {
-            "nombre" : "Carrie Krueger",
-            "avatar" : "https://vignette4.wikia.nocookie.net/doblaje/images/4/4c/Carrie.png/revision/latest?cb=20130418201555&path-prefix=es",
+            "nombre" : "Koala",
+            "avatar" : "https://image.freepik.com/vector-gratis/lindo-koala-durmiendo-arbol-dibujos-animados-concepto-icono-naturaleza-animal-aislado-estilo-dibujos-animados-plana_138676-2366.jpg",
             "descripcion": "Hola soy un fantasma"
         }, {
-            "nombre" : "Tobías Wilson",
-            "avatar" : "https://vignette3.wikia.nocookie.net/elincreiblemundodegumball/images/b/b4/Tobias_S2.png/revision/latest?cb=20170222142554&path-prefix=es",
+            "nombre" : "Vaca",
+            "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-dibujos-animados-lindo-bebe-vaca-sentada_138676-2777.jpg",
             "descripcion": "Hola soy un algodon de azucar arcoiris"
         }
     ]
