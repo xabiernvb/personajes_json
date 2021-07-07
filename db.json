@@ -22,15 +22,15 @@
             "descripcion": "Hola soy un conejo"
         }, {
             "nombre" : "Penny Fitzgerald",
-            "avatar" : "https://static.wikia.nocookie.net/elincreiblemundodegumball/images/5/53/Real_Penny.png/revision/latest/scale-to-width-down/180?cb=20170314202640&path-prefix=es",
+            "avatar" : "http://vignette2.wikia.nocookie.net/elincreiblemundodegumball/images/4/41/Penny_season3_hd.png/revision/latest?cb=20141028171550&path-prefix=es",
             "descripcion": "Hola soy un mani"
         }, {
-            "nombre" : "Joanna Watterson",
-            "avatar" : "https://static.wikia.nocookie.net/doblaje/images/0/05/AbuelaJojo-TAWOG.png/revision/latest?cb=20200918200542&path-prefix=es",
-            "descripcion": "Hola soy una coneja"
+            "nombre" : "Carrie Krueger",
+            "avatar" : "https://vignette4.wikia.nocookie.net/doblaje/images/4/4c/Carrie.png/revision/latest?cb=20130418201555&path-prefix=es",
+            "descripcion": "Hola soy un fantasma"
         }, {
             "nombre" : "Tobías Wilson",
-            "avatar" : "https://static.wikia.nocookie.net/doblaje/images/d/db/Tobias-TAWOG.png/revision/latest?cb=20201107222636&path-prefix=es",
+            "avatar" : "https://vignette3.wikia.nocookie.net/elincreiblemundodegumball/images/b/b4/Tobias_S2.png/revision/latest?cb=20170222142554&path-prefix=es",
             "descripcion": "Hola soy un algodon de azucar arcoiris"
         }
     ]
