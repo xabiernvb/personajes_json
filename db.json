@@ -3,35 +3,35 @@
         {     
             "nombre" : "Unicornio",
             "avatar" : "https://image.freepik.com/vector-gratis/lindo-unicornio-flotando-globo-dibujos-animados-vector-icono-ilustracion-concepto-icono-amor-animal-estilo-dibujos-animados-plana_138676-2591.jpg",
-            "descripcion": "Hola soy un gato"
+            "descripcion": "Hola soy un unicornio"
         }, {
             "nombre" : "Panda",
             "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-icono-dibujos-animados-lindo-dormir-panda-concepto-icono-naturaleza-animal-aislado-estilo-dibujos-animados-plana_138676-2566.jpg",
-            "descripcion" : "Hola soy un pez con piernas"
+            "descripcion" : "Hola soy un panda"
         }, {
             "nombre" : "Camaleon",
             "avatar" : "https://image.freepik.com/vector-gratis/lindo-camaleon-arbol-caricatura-ilustracion_138676-3262.jpg",
-            "descripcion": "Hola soy una coneja"
+            "descripcion": "Hola soy una camaleon"
         }, {
             "nombre" : "Gato",
             "avatar" : "https://image.freepik.com/vector-gratis/lindo-gato-sosteniendo-ilustracion-icono-dibujos-animados-pescado-concepto-icono-comida-animal-aislado-estilo-dibujos-animados-plana_138676-2171.jpg",
-            "descripcion": "Hola soy una gata"
+            "descripcion": "Hola soy una gato"
         }, {
             "nombre" : "Cerdo",
             "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-dibujos-animados-lindo-rey-cerdo-gafas-concepto-animal-aislado-caricatura-plana_138676-2291.jpg",
-            "descripcion": "Hola soy un conejo"
+            "descripcion": "Hola soy un cerdo"
         }, {
             "nombre" : "Perro",
             "avatar" : "https://image.freepik.com/vector-gratis/ilustracion-vector-dibujos-animados-lindo-corgi-beber-leche-te-boba-bebida-animal-concepto-aislado-vector-estilo-dibujos-animados-plana_138676-1943.jpg",
-            "descripcion": "Hola soy un mani"
+            "descripcion": "Hola soy un perro"
         }, {
             "nombre" : "Koala",
             "avatar" : "https://image.freepik.com/vector-gratis/lindo-koala-durmiendo-arbol-dibujos-animados-concepto-icono-naturaleza-animal-aislado-estilo-dibujos-animados-plana_138676-2366.jpg",
-            "descripcion": "Hola soy un fantasma"
+            "descripcion": "Hola soy un koala"
         }, {
             "nombre" : "Pinguino",
-            "avatar" : "https://image.freepik.com/vector-gratis/lindo-gato-donut-estilo-dibujos-animados-plana_138676-2624.jpg",
-            "descripcion": "Hola soy un algodon de azucar arcoiris"
+            "avatar" : "https://image.freepik.com/vector-gratis/ejemplo-lindo-historieta-juego-pinguino_138676-2741.jpg",
+            "descripcion": "Hola soy un pinguino"
         }
     ]
 }
