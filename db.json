@@ -1,35 +1,35 @@
 {
     "caricaturas" : [
         {     
-            "personaje" : "Gumball Watterson",
+            "nombre" : "Gumball Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/c/c0/Season_3_Gumball.png/revision/latest/scale-to-width-down/350?cb=20170403133251&path-prefix=es",
             "descripcion": "Hola soy un gato"
         }, {
-            "personaje" : "Darwin Watterson",
+            "nombre" : "Darwin Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/a/ab/Darwinregplisss.png/revision/latest/scale-to-width-down/350?cb=20170403133426&path-prefix=es",
             "descripcion" : "Hola soy un pez con piernas"
         }, {
-            "personaje" : "Anais Watterson",
+            "nombre" : "Anais Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/7/75/Anais-TAWOG.png/revision/latest?cb=20200918200329&path-prefix=es",
             "descripcion": "Hola soy una coneja"
         }, {
-            "personaje" : "Nicole Watterson",
+            "nombre" : "Nicole Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/8/8e/Nicole-TAWOG.png/revision/latest?cb=20200918200418&path-prefix=es",
             "descripcion": "Hola soy una gata"
         }, {
-            "personaje" : "Richard Watterson",
+            "nombre" : "Richard Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/c/cc/Richard-TAWOG.png/revision/latest?cb=20200918200457&path-prefix=es",
             "descripcion": "Hola soy un conejo"
         }, {
-            "personaje" : "Penny Fitzgerald",
+            "nombre" : "Penny Fitzgerald",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/e/e3/Penny1-TAWOG.png/revision/latest?cb=20201107222545&path-prefix=es",
             "descripcion": "Hola soy un mani"
         }, {
-            "personaje" : "Joanna Watterson",
+            "nombre" : "Joanna Watterson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/0/05/AbuelaJojo-TAWOG.png/revision/latest?cb=20200918200542&path-prefix=es",
             "descripcion": "Hola soy una coneja"
         }, {
-            "personaje" : "Tobías Wilson",
+            "nombre" : "Tobías Wilson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/d/db/Tobias-TAWOG.png/revision/latest?cb=20201107222636&path-prefix=es",
             "descripcion": "Hola soy un algodon de azucar arcoiris"
         }
