@@ -32,10 +32,6 @@
             "personaje" : "Tobías Wilson",
             "avatar" : "https://static.wikia.nocookie.net/doblaje/images/d/db/Tobias-TAWOG.png/revision/latest?cb=20201107222636&path-prefix=es",
             "descripcion": "Hola soy un algodon de azucar arcoiris"
-        }, {
-            "personaje" : "Banana Joe",
-            "avatar" : "https://static.wikia.nocookie.net/doblaje/images/1/1d/BananaJoe-TAWOG.png/revision/latest?cb=20201107222659&path-prefix=es",
-            "descripcion": "Hola soy una banana"
         }
     ]
 }
